@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dara16
+- 👋 Hi, I’m Dara
 - 👀 I’m interested in building web applications
 - 🌱 I’m currently learning Javascript, React, Ruby, RoR, Redux
 - 💞️ I’m looking to collaborate on team projects to help hone my skills
