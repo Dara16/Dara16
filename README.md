@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dara
 - 👀 I’m interested in building web applications
-- 🌱 I’m currently learning Javascript, React, Ruby, RoR, Redux
+- 🌱 I’m a a backend focused engineer versed in the MERN Stack
 - 💞️ I’m looking to collaborate on team projects to help hone my skills
 - 📫 How to reach me: dara.shoyinka@gmail.com
 
