@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dara
-- 👀 I’m interested in building web applications
-- 🌱 I’m  a backend focused engineer versed in the MERN Stack
-- 💞️ I’m looking to collaborate on team projects to help hone my skills
+- 👀 I’m interested in automation, IaC and cloud computing
+- 🌱 I’m  a DevOps Engineer skilled in automating the CI/CD pipeline
+- 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me: dara.shoyinka@gmail.com
 
 <!---
